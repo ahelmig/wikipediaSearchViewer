@@ -1,0 +1,77 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:600);
+#closeForm {
+  position: relative;
+  z-index: 1;
+  left: -25px;
+  top: 1px;
+  cursor: pointer;
+  width: 0;
+}
+
+h3 {
+  color: white
+}
+
+#openSearch {
+  cursor: pointer;
+  color: orange;
+}
+
+.hidden {
+  display: none;
+}
+
+footer {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  color: white;
+}
+
+a {
+  color: white;
+}
+
+a:hover {
+  color: white;
+}
+
+body {
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  background-color: #003366;
+}
+
+.wikiTitle {
+  color: #CC6600;
+}
+
+ul {
+  color: black;
+  list-style-type: none;
+  text-align: left;
+}
+
+ul a {
+  color: #CC6600;
+  float: right;
+}
+
+ul a:hover {
+  color: #663300;
+}
+
+.box {
+  width: 1200px;
+  padding: 25px;
+  border-radius: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+}
+
+.random {
+  padding: 25px;
+}
